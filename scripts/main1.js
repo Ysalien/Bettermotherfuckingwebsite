@@ -1,12 +1,12 @@
 window.onload = setTimeout(function(){
-  var pop = confirm('Hey va sur le site xxxvidsxxx, stp please');
+  var pop = confirm('Hey le site xxxvidsxxx est super bien. Viens dessus stp please');
   if (pop == true) {
     window.location = "https://www.youtube.com/watch?v=dQw4w9WgXcQ";
   }
   else {
     false;
   }
-}, 2000);
+}, 10000);
 
 function buttonpsy() {
   document.getElementById('psyche').style.backgroundColor = "magenta";
